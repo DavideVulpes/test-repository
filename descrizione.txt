@@ -1,5 +1,0 @@
-Ciao
-
-Ciao da locale
-
-Ciao da remoto
